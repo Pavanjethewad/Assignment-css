@@ -16,3 +16,9 @@ https://pavanjethewad.github.io/Assignment-css/CSS-304-02/index.html
 
 6)Voot NavBar
 https://pavanjethewad.github.io/Assignment-css/CSS-304-04/index.html
+
+7)Calculator
+https://pavanjethewad.github.io/Assignment-css/CSS-305-02/index.html
+
+8)cars page
+https://pavanjethewad.github.io/Assignment-css/CSS-305-03/index.html
