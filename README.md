@@ -10,3 +10,9 @@ https://pavanjethewad.github.io/Assignment-css/flexBoxPhotoGallery/index.html
 
 4)rothko painting
 https://pavanjethewad.github.io/Assignment-css/CSS-304-01/index.html
+
+5)MammothNews
+https://pavanjethewad.github.io/Assignment-css/CSS-304-02/index.html
+
+6)Voot NavBar
+https://pavanjethewad.github.io/Assignment-css/CSS-304-04/index.html
