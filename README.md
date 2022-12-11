@@ -29,3 +29,6 @@ https://pavanjethewad.github.io/Assignment-css/CSS-301-01/index.html
 10)CSS-306-01 GRID CHALLENGE
 https://pavanjethewad.github.io/Assignment-css/CSS-306-01/index.html
 
+11)CSS-306-03
+https://pavanjethewad.github.io/Assignment-css/CSS-306-03/index.html
+
